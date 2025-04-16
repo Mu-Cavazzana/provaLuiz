@@ -8,15 +8,15 @@ O objetivo deste trabalho foi criar automações para testes de login em página
 
 ### Tecnologias Utilizadas: ⚙️
 
-- **Python** com Selenium 🐍 
-- **Node.js** com Selenium WebDriver 🌐
-- **JMeter** para testes de desempenho 📊
+- **Python** com Selenium  
+- **Node.js** com Selenium WebDriver 
+- **JMeter** para testes de desempenho 
 
 ---
 
 ## Scripts
 
-### 1. **Automação com Selenium - Python** 🐍
+### 1. **Automação com Selenium - Python** 
 O script em Python realiza o login na página e valida o redirecionamento após o login.
 
 - **Funcionalidade**: Acesse a página de login, insira o nome de usuário e senha de forma simulada (digitando lentamente), e valida se houve o redirecionamento correto após o login.
@@ -24,7 +24,7 @@ O script em Python realiza o login na página e valida o redirecionamento após 
 
 **Arquivo**: [python_test.py](./python_test.py)
 
-### 2. **Automação com Selenium - Node.js** 💻
+### 2. **Automação com Selenium - Node.js** 
 O script em Node.js realiza a mesma automação do script em Python, mas utilizando Selenium WebDriver no ambiente JavaScript.
 
 - **Funcionalidade**: Acesse a página de login, insira o nome de usuário e senha de forma simulada (digitando lentamente), e valida se houve o redirecionamento correto após o login.
@@ -34,7 +34,7 @@ O script em Node.js realiza a mesma automação do script em Python, mas utiliza
 
 ---
 
-## Testes de Desempenho com JMeter 📊
+## Testes de Desempenho com JMeter 
 
 Os testes de desempenho foram realizados utilizando o **JMeter**. Através dele, foi possível realizar testes de carga nas páginas de login do site.
 
@@ -85,7 +85,7 @@ npm install selenium-webdriver
 
 ```
 
-## Autoria 👩‍💻👨‍💻
+## Dupla da Prova 👩‍💻👨‍💻
 
 A atividade foi realizada pela dupla:
 
