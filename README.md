@@ -2,11 +2,11 @@
 
 Este repositório contém os scripts e a documentação relacionados ao processo de automação de testes utilizando **Selenium** em **Python** e **Node.js**, além de testes de desempenho feitos com **JMeter**.
 
-## Descrição 📋
+## Descrição 
 
 O objetivo deste trabalho foi criar automações para testes de login em páginas de um site específico utilizando o Selenium, e realizar testes de desempenho com o JMeter para avaliar o comportamento e a carga do sistema.
 
-### Tecnologias Utilizadas: ⚙️
+### Tecnologias Utilizadas: 
 
 - **Python** com Selenium  
 - **Node.js** com Selenium WebDriver 
@@ -85,7 +85,7 @@ npm install selenium-webdriver
 
 ```
 
-## Dupla da Prova 👩‍💻👨‍💻
+## Dupla da Prova 
 
 A atividade foi realizada pela dupla:
 
