@@ -41,8 +41,6 @@ Os testes de desempenho foram realizados utilizando o **JMeter**. Através dele,
 - **Funcionalidade**: Verificar a performance da página de login em dois cenários diferentes de tráfego de usuários.
 - **Tecnologia**: JMeter
 
-**Arquivo de Configuração**: [jmeter_test.jmx](./jmeter_test.jmx)
-
 ---
 
 ## Vídeos
