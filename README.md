@@ -22,7 +22,7 @@ O script em Python realiza o login na página e valida o redirecionamento após 
 - **Funcionalidade**: Acesse a página de login, insira o nome de usuário e senha de forma simulada (digitando lentamente), e valida se houve o redirecionamento correto após o login.
 - **Tecnologia**: Python, Selenium
 
-**Arquivo**: [python_test.py](./python_test.py)
+**Arquivo**: [python_test.py](./main.py)
 
 ### 2. **Automação com Selenium - Node.js** 
 O script em Node.js realiza a mesma automação do script em Python, mas utilizando Selenium WebDriver no ambiente JavaScript.
@@ -30,7 +30,7 @@ O script em Node.js realiza a mesma automação do script em Python, mas utiliza
 - **Funcionalidade**: Acesse a página de login, insira o nome de usuário e senha de forma simulada (digitando lentamente), e valida se houve o redirecionamento correto após o login.
 - **Tecnologia**: Node.js, Selenium WebDriver
 
-**Arquivo**: [nodejs_test.js](./nodejs_test.js)
+**Arquivo**: [nodejs_test.js](./node.js)
 
 ---
 
